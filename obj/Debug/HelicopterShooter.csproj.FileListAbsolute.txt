@@ -1,0 +1,10 @@
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\HelicopterShooter\HelicopterShooter\HelicopterShooter\bin\Debug\HelicopterShooter.exe.config
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\HelicopterShooter\HelicopterShooter\HelicopterShooter\bin\Debug\HelicopterShooter.exe
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\HelicopterShooter\HelicopterShooter\HelicopterShooter\bin\Debug\HelicopterShooter.pdb
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\HelicopterShooter\HelicopterShooter\HelicopterShooter\obj\Debug\HelicopterShooter.csproj.AssemblyReference.cache
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\HelicopterShooter\HelicopterShooter\HelicopterShooter\obj\Debug\HelicopterShooter.frmGame.resources
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\HelicopterShooter\HelicopterShooter\HelicopterShooter\obj\Debug\HelicopterShooter.Properties.Resources.resources
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\HelicopterShooter\HelicopterShooter\HelicopterShooter\obj\Debug\HelicopterShooter.csproj.GenerateResource.cache
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\HelicopterShooter\HelicopterShooter\HelicopterShooter\obj\Debug\HelicopterShooter.csproj.CoreCompileInputs.cache
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\HelicopterShooter\HelicopterShooter\HelicopterShooter\obj\Debug\HelicopterShooter.exe
+C:\Users\ofn2nvu\Desktop\BilgeAdamBoost\Projects\HelicopterShooter\HelicopterShooter\HelicopterShooter\obj\Debug\HelicopterShooter.pdb
